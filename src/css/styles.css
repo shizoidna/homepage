@@ -1,10 +1,22 @@
 .avatar-wrapper {
-    position: absolute;
-    box-sizing: border-box;
-    padding: 20px 10px 20px 0;
+  position: absolute;
+  box-sizing: border-box;
+  padding: 20px 10px 20px 0;
 }
 
 .avatar {
-    width: 100%;
+  width: 100%;
 }
 
+h3, h4 {
+  font-family: "Arial", sans-serif;
+  font-weight: bold;
+}
+
+.icon, .icon-text {
+  color: black;
+}
+
+.icon:hover, .icon-text:hover {
+  color: #717171;
+}
