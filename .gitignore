@@ -2,3 +2,5 @@
 .DS_Store
 workbox-*.js
 !workbox-config.js
+workbox-*.js.map
+sw.js.map
