@@ -8,15 +8,18 @@
   width: 100%;
 }
 
-h3, h4 {
+h3,
+h4 {
   font-family: "Arial", sans-serif;
   font-weight: bold;
 }
 
-.icon, .icon-text {
+.icon,
+.icon-text {
   color: black;
 }
 
-.icon:hover, .icon-text:hover {
+.icon:hover,
+.icon-text:hover {
   color: #717171;
 }
